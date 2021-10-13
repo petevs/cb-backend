@@ -1,0 +1,19 @@
+{
+  "name": "cb-backend",
+  "version": "1.0.0",
+  "description": "backend functions for calculating bitcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petevs/cb-backend.git"
+  },
+  "author": "petevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petevs/cb-backend/issues"
+  },
+  "homepage": "https://github.com/petevs/cb-backend#readme"
+}
